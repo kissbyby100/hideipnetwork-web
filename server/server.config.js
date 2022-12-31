@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
  */ 
-const BAREURL = 'https://random.mxaz.tk'
+const BAREURL = 'https://web.kiner.eu.org/'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
